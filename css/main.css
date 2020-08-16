@@ -10,7 +10,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 60px;
 }
 a {
     text-decoration: none;
@@ -23,6 +23,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: LightGray;
 }
 p {
     font-size: 1.5em;
