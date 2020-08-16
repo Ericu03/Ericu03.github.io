@@ -18,8 +18,12 @@ a {
     color: #999;
 }
 a:hover {
-    background-color: LightBlue;
+    background-color: #d5f4e6;
     text-decoration: underline;
+}
+div {
+    display:block;
+    background-color:#d5f4e6;
 }
 h2 {
     font-size: 5em;
