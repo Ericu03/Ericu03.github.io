@@ -14,23 +14,12 @@ nav ul li, footer ul li {
     margin-right: 500px;
 }
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #999;
 }
 
-div {
-    display:block;
-    background-color:#d5f4e6;
-    text-align: center;
-}
-h2 {
-    font-size: 5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    background-color: #999;
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+.w3-bar w3-black{
+   background-color: #999;
+   text-align: center;
 }
 
