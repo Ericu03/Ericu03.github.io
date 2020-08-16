@@ -21,7 +21,7 @@ nav ul li, footer ul li {
 
 .topnav a{
  float: left;
- color:#FOF8FF;
+ color:#F8F8FF;
     text-align:center;
     padding: 14px 16px;
     text-decoration: none;
@@ -30,11 +30,11 @@ nav ul li, footer ul li {
 
 .topnav a:hover{
     background-color:#ddd;
-    color:black;
+    color:#000000;
 }
 .topnav a.active{
  background-color:#4CAF50;
- color:white;
+ color:#000000;
 }
     
 
