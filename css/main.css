@@ -3,12 +3,12 @@ body {
     width: 70%;
 }
 
-.topnav{
+.topnav {
  overflow: hidden;
-    background-color: #000000;
+ background-color: #000000;
 }
 
-.topnav a{
+.topnav a {
     float: left;
     color:#F8F8FF;
     text-align:center;
