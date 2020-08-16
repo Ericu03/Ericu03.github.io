@@ -24,6 +24,7 @@ a:hover {
 div {
     display:block;
     background-color:#d5f4e6;
+    text-align: center;
 }
 h2 {
     font-size: 5em;
