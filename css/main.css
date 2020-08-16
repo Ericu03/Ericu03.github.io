@@ -13,13 +13,6 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 500px;
 }
-a {
-    text-decoration: underline;
-    color: #999;
-}
 
-.w3-bar w3-black{
-   background-color: #999;
-   text-align: center;
-}
+
 
